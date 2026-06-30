@@ -15,6 +15,7 @@ Data Science student with interests in analytics, problem solving and systems th
 - Data cleaning
 - Data analysis
 - Statistical analysis
+- Data visualisation
 
 ### Machine Learning
 - Model evaluation
