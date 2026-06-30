@@ -11,5 +11,4 @@ Data Science student with interests in analytics, problem solving and systems th
 - Machine learning
 - GPT API
 
-## Featured Projects
--  -to be filled out-
+Featured projects listed below.
